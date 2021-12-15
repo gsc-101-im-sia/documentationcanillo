@@ -1,7 +1,7 @@
 # DocumentationCanillo
 Video Documentation on How to Install iDempiere on your Local Machine and How to create an Initial Client.
 
-This is the Video Link of my Documentation. I compile them as one. Sorry for the Blurry Video Sir Gayo. 
+This is the Video Link of my Documentation. I compile them as one. 
 
 https://youtu.be/r1zG6TP3ScQ
 
